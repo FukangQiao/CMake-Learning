@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.5 -dynamiclib -Wl,-headerpad_max_install_names -o /Users/fukangqiao/Desktop/DEV/CMake-Learning/5_dll_lib_compile_link/lib/libtestFuncdll.dylib -install_name @rpath/libtestFuncdll.dylib CMakeFiles/Func_shared.dir/func/func.cpp.o 

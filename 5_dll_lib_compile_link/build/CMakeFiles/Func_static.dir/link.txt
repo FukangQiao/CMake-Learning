@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc /Users/fukangqiao/Desktop/DEV/CMake-Learning/5_dll_lib_compile_link/lib/libtestFunclib.a CMakeFiles/Func_static.dir/func/func.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib /Users/fukangqiao/Desktop/DEV/CMake-Learning/5_dll_lib_compile_link/lib/libtestFunclib.a
